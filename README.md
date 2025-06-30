@@ -19,7 +19,7 @@ El análisis se basó en un conjunto de datos transaccionales, donde cada fila r
 
 2. Instalar las siguientes librerías: pandas matplotlib seaborn plotly numpy
 
-3. Correr la notebook secuencialmente desde el inicio para garantizar consistencia.
+3. ❗**Importante**: Ejecutar la notebook de forma secuencial desde el inicio; de lo contrario, los gráficos de Plotly no se renderizarán correctamente.
 
 # 🔍 Hallazgos y observaciones
 
